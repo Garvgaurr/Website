@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/cool-website-background-03.jpg);
+	object-fit: cover;
+}
+
+
+body div .material-icons{
+    font-size: 200px;
+    color: white;
+}
+
+body div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 200px;
+    flex-direction:column;
+}
+
+body div p{
+    color: white;
+    font-weight: 600S;
+    font-size: 25px;
+    width: 350px;
+    text-align: center;
+}
